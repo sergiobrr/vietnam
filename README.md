@@ -5,7 +5,8 @@
 
 <h1 id="in-cosa-puoi-e-non-puoi-investire">In cosa puoi e non puoi investire</h1>
 <p>Il Vietnam opera secondo un sistema di “Lista Negativa”. Ciò significa che puoi investire liberamente nella maggior parte dei settori, a meno che non siano specificamente limitati o vietati. Tuttavia, alcuni settori, come i trasporti, l’istruzione o parti dello sviluppo immobiliare, possono imporre limiti di proprietà o richiedere una joint venture con un partner locale.</p>
-<p>È importante verificare le normative del settore scelto prima di procedere. Collaborare con uno studio legale locale affidabile può essere prezioso per districarsi in queste sfumature.</p>
+<p>È importante verificare le normative del settore scelto prima di procedere. Collaborare con uno studio legale locale affidabile può essere prezioso per districarsi in queste sfumature.<br>
+Questo file è collegato ad una <a href="Fasi.md">ipotesi</a> di investimento di lungo periodo da fare in Viet Nam</p>
 <h1 id="costituzione-di-unattività-o-di-una-società">Costituzione di un’attività o di una società</h1>
 <p>Se prevedi di investire tramite un’entità commerciale, avrai prima bisogno di un Certificato di Registrazione dell’Investimento (IRC), seguito da un Certificato di Registrazione dell’Impresa (ERC). Queste approvazioni confermano sia il tuo diritto a investire che l’esistenza legale della tua azienda in Vietnam.</p>
 <p>Per ottenerle, dovrai fornire un documento d’identità personale (come il passaporto), una prova della capacità finanziaria e una bozza di statuto aziendale. Sebbene non esista un requisito di capitale minimo universale, le autorità valuteranno se il capitale proposto è sufficiente per le operazioni previste. Il processo richiede in genere dai tre ai quattro mesi.</p>
